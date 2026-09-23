@@ -1,0 +1,6 @@
+{
+  "name": "CampusIQ - College Knowledge Assistant",
+  "description": "RAG-powered academic knowledge assistant for college handbooks, regulations, syllabus, notices, and institutional documents with grounded citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
